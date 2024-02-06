@@ -14,7 +14,7 @@ For further details, please visit:
 
 - Windows 10 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Profiler Object for 2023-12
+- Melissa Profiler Object for 2024-01
 
 ## Getting Started
 
