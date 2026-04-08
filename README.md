@@ -14,7 +14,7 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/profi
 
 - Windows 11 64-bit Python 3.8.7, Powershell 5.1
 - Linux 64-bit Python 3.8.7, Ubuntu 20.04.05 LTS
-- Melissa Profiler Object for 2026-Q1
+- Melissa Profiler Object for 2026-Q2
 - Wrapper file(s) have not changed since 2026-Q1
 
 ## Getting Started
