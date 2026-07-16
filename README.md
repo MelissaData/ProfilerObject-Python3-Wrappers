@@ -21,8 +21,8 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/profi
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/python3/melissaprofilerobjectpython3wrappers
-cd melissaprofilerobjectpython3wrappers
+git clone https://github.com/MelissaData/ProfilerObject-Python3-Wrappers
+cd ProfilerObject-Python3-Wrappers
 ```
 
 ### Copy wrappers to your project folder
